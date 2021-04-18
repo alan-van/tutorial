@@ -1,3 +1,7 @@
 Den ca con khi cung hieu duoc lenh git
 add: Dang ky thay doi trong index
+<<<<<<< HEAD
 Commit: Luu lai trang thai cua index
+=======
+pull: Lay noi dung cua remote repository
+>>>>>>> Them giai thich pull
